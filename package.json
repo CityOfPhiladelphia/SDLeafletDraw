@@ -8,7 +8,7 @@
     "src/"
   ],
   "dependencies": {
-    "leaflet": "1.5.1"
+    "leaflet": "1.7.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.0.5",
